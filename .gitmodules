@@ -1,0 +1,3 @@
+[submodule "drive_firmware"]
+	path = drive_firmware
+	url = https://github.com/ddcc/drive_firmware
